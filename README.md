@@ -2,6 +2,11 @@
 
 Migrate Linkable Link records to SilverStripe Link
 
+[![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-link-migrator/v/stable)](https://packagist.org/packages/dynamic/silverstripe-link-migrator)
+[![Total Downloads](https://poser.pugx.org/dynamic/silverstripe-link-migrator/downloads)](https://packagist.org/packages/dynamic/silverstripe-link-migrator)
+[![Latest Unstable Version](https://poser.pugx.org/dynamic/silverstripe-link-migrator/v/unstable)](https://packagist.org/packages/dynamic/silverstripe-link-migrator)
+[![License](https://poser.pugx.org/dynamic/silverstripe-link-migrator/license)](https://packagist.org/packages/dynamic/silverstripe-link-migrator)
+
 ## Requirements
 
 * SilverStripe ^4.0
